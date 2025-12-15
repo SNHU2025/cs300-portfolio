@@ -1,1 +1,4 @@
 # cs300-portfolio
+**Portfolio Reflection**
+
+In CS 300, I completed two projects that applied data structures and algorithms to real-world programming problems. Project One involved analyzing the run-time and memory efficiency of vectors, hash tables, and binary search trees. At the same time, Project Two required building a working program that sorts and prints Computer Science courses in alphanumeric order. I selected data structures based on efficiency and problem requirements, using Big-O analysis to guide design decisions. Challenges such as debugging logic and managing algorithm complexity were addressed through pseudocode, incremental testing, and careful tracing. These projects strengthened my software design skills and improved my ability to write readable, maintainable, and adaptable code.
